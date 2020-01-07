@@ -1,5 +1,5 @@
 const env = {
-    database: 'simpleSequelize' || 'database name',
+    database: 'simpleSequelize' || //'database name',
     username: 'root',
     password: 'Enter database password',
     host: 'localhost',
