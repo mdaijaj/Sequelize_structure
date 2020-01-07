@@ -1,7 +1,7 @@
 const env = {
-    database: 'simpleSequelize',
+    database: 'simpleSequelize' || 'database name',
     username: 'root',
-    password: 'aijaj123',
+    password: 'Enter database password',
     host: 'localhost',
     dialect: 'mysql',
     pool: {
